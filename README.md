@@ -33,3 +33,6 @@ Started learning basis of calculus. [Essence of calculus](https://www.youtube.co
 * learned about Eulers number. 
 * learned about Implicit differentation 
 * http://www.math.ucsd.edu/~ebender/proofs.html
+
+source: 3blueOneBrown
+<img src="Screen Shot 2020-03-26 at 7.51.07 PM.png" />
