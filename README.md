@@ -27,3 +27,9 @@ Started learning basis of calculus. [Essence of calculus](https://www.youtube.co
 *  How the circle, square or cube area is derived using the derivative. 
 *  learned about the derivation of how velocity actually works with derivative rule. 
 * learned about role of the tangent in any kind of curve of graph.
+
+## Day6:
+* watched session [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=6)
+* learned about Eulers number. 
+* learned about Implicit differentation 
+* http://www.math.ucsd.edu/~ebender/proofs.html
