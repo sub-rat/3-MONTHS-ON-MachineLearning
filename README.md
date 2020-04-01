@@ -36,3 +36,11 @@ Started learning basis of calculus. [Essence of calculus](https://www.youtube.co
 
 source: 3blueOneBrown
 <img src="Screen Shot 2020-03-26 at 7.51.07 PM.png" />
+
+## Day7:
+continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=6)
+* Limits
+* L'Hopital's rule
+* epsilon delta definitions 
+* Integration
+* fundamental theorem of calculus
