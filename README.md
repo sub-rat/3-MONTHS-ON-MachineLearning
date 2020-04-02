@@ -44,3 +44,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * epsilon delta definitions 
 * Integration
 * fundamental theorem of calculus
+
+## Day8:
+* logistic Regression
+* sigmoid function
