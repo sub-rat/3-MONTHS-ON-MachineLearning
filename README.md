@@ -54,6 +54,6 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * [Logistic Regression on Titanic Data](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/LogisticRegressionOnTitanic.ipynb)
 * [Logistic Regression Social Ads](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/LogisticRegression.ipynb)
 
-# Day10:
+## Day10:
 * probabily
 * data structure and algorithm
