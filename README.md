@@ -57,3 +57,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 ## Day10:
 * probabily
 * data structure and algorithm
+
+## Day11:
+* KNN algorim and implementation
+* [knn with irisdataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/KNN_on_iris_dataset.ipynb)
