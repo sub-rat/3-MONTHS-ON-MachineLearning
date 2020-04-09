@@ -52,3 +52,6 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 
 * KNN algorim and implementation
 * [knn with irisdataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/code/master/code/KNN_on_iris_dataset.ipynb)
+
+* Matrix Rank,multiplicaiton and operation
+* Matrix Transformation
