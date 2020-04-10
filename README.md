@@ -30,7 +30,7 @@ Started learning basis of calculus. [Essence of calculus](https://www.youtube.co
 * http://www.math.ucsd.edu/~ebender/proofs.html
 
 source: 3blueOneBrown
-<img src="Screen Shot 2020-03-26 at 7.51.07 PM.png" />
+<img src="/image/Screen Shot 2020-03-26 at 7.51.07 PM.png" />
 
 continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=6)
 * Limits
