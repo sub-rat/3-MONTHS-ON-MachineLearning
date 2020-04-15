@@ -10,13 +10,13 @@ Watched the linear algebra session of 3Blue1Brown.
 Here explained is done in graphical way which makes good understanding of Linear Algebra, vectors , basis vectors, Composition Matrix for transformation , rotation ,shearing etc , Matrix multiplication, dot product, cross product, Eigen value and Eigen vector.
 
 Implementation of data preprocessing using python library and some dataset in colab<br>
-[link to the data preprocessing code](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/Day2DataPreProcessing.ipynb)
+[link to the data preprocessing code](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week1/Day2DataPreProcessing.ipynb)
 
 Learning and Implementation of Linear Regression using LinearRegression() model<br>
-[link to the linear regression](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/Day3LinearRegression.ipynb)
+[link to the linear regression](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week1/Day3LinearRegression.ipynb)
 
 Learning and Implementation of Multiple Linear Regression model<Br>
-[link to the multiple linear regression ](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/Day4MultipleLinearRegression.ipynb)
+[link to the multiple linear regression ](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week1/Day4MultipleLinearRegression.ipynb)
 
 Started learning basis of calculus. [Essence of calculus](https://www.youtube.com/watch?v=m2MIpDrF7Es&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=5)
 * Watched the video of basis of calculus ie. derivative and integration . 
@@ -44,14 +44,20 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * sigmoid function
 
 * implementation of logistic Regression 
-* [Logistic Regression on Titanic Data](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/LogisticRegressionOnTitanic.ipynb)
-* [Logistic Regression Social Ads](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/LogisticRegression.ipynb)
+* [Logistic Regression on Titanic Data](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/LogisticRegressionOnTitanic.ipynb)
+* [Logistic Regression Social Ads](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/LogisticRegression.ipynb)
 
 * probabily
 * data structure and algorithm
 
 * KNN algorim and implementation
-* [knn with irisdataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/code/master/code/KNN_on_iris_dataset.ipynb)
+* [knn with irisdataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/KNN_on_iris_dataset.ipynb)
 
 * Matrix Rank,multiplicaiton and operation
-* Matrix Transformation
+* [Matrix Transformation](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/MatrixTransformation.ipynb)
+
+* [Naive Bayes Classification](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/NaiveBayes.ipynb)
+* [SVM Classification on cancer data](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week2/SVMClassificationOnCancerData.ipynb)
+
+## Week3
+* [Random Forest](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week3/RandomForest.ipynb)
