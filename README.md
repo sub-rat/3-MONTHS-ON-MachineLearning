@@ -61,3 +61,9 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 
 ## Week3
 * [Random Forest](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week3/RandomForest.ipynb)
+* OpenCV basics
+  - Image 
+  - Video loading
+  - Video Capturing
+  - Drawing Function
+  - [link of above](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/opencv/opencv_main.ipynb)
