@@ -69,3 +69,10 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   - [link of above](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/opencv/opencv_main.ipynb)
 * [Pixel operation in Image](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week3/opencv_core/image_pixel.ipynb)
 * XGBoost study
+* Studying on NLP 
+  - Component of NLP
+    - Morphological and Lexical Analysis
+    - Syntactic Analysis
+    - Semantic Analysis
+    - Discourse Integration
+    - Pragmatic Analysis
