@@ -76,3 +76,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
     - Semantic Analysis
     - Discourse Integration
     - Pragmatic Analysis
+
+
+## week4
+* Topic Frequency-Inverse Document Frequency (TF-IDF)
