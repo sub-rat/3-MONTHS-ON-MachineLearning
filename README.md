@@ -83,3 +83,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * [Basic and Simple workout on Non-negative Matrix Factorization (NMF)](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week4/SingularValueDecomposition.ipynb)
 * hands on knowledge of Singular Value Decomposition (SVD)
 * knowledge on Stochastic Gradient Descent (SGD)
+
+# Month2
+## Week 1:
+* [Machine Learning Crash course started](https://developers.google.com/machine-learning/crash-course/ml-intro)
