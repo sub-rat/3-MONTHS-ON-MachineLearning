@@ -87,3 +87,8 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 # Month2
 ## Week 1:
 * [Machine Learning Crash course started](https://developers.google.com/machine-learning/crash-course/ml-intro)
+  - key ML Terminology
+  - Linear Regession
+  - Training and loss
+  - Gradient Descedent , learning rate, epoch, batch 
+  - SGD
