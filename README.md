@@ -92,3 +92,9 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   - Training and loss
   - Gradient Descedent , learning rate, epoch, batch 
   - SGD
+  
+  - Introduciton with tensor flow
+  - Generalization
+  - Training, Test and validation 
+  - Representation of data
+  - Cleaning data
