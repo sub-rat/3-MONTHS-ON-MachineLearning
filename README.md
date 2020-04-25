@@ -92,9 +92,14 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   - Training and loss
   - Gradient Descedent , learning rate, epoch, batch 
   - SGD
-  
+  <br>
   - Introduciton with tensor flow
   - Generalization
   - Training, Test and validation 
   - Representation of data
   - Cleaning data
+  <br>
+  - Feature Crosses( Encoding Nonlinearity and Crossing One Hot Vector)
+  - Regularization ( L2 Regularization and lambda)
+  - Logistic Regression ( Loss and Regulariztion) (log loss)
+  
