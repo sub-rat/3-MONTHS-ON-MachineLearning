@@ -115,4 +115,9 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   - Regularization ( L2 Regularization and lambda)
   
   - Logistic Regression ( Loss and Regulariztion) (log loss)
+  <br>
+  
+  - TP,TN, FP,FN
+  
+  - Classification
   
