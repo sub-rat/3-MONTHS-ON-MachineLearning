@@ -121,3 +121,11 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   
   - Classification
   
+  <br>
+  
+  - ROC Curve and AOC
+  
+  - L1 Regularization
+  
+  - Neural Network
+  
