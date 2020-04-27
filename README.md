@@ -129,3 +129,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   
   - Neural Network
   
+  - Neural Netork pracice
+  
+  - Activation Function(Relu, Linear, Sigmoid, tanh)
+  
