@@ -134,6 +134,9 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
   - Activation Function(Relu, Linear, Sigmoid, tanh)
   
 *  PCA watched youtube videos and done some Python implementation
-*  PCA on Breast Cancer Dataset
-*  PCA on CIFAR-10 Dataset
-*  Convolutional Neural Networks in Python with Keras
+*  [PCA on Breast Cancer Dataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week5/PCAwithBreastCancerDataset.ipynb)
+*  [PCA on CIFAR-10 Dataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week5/VisualizingCIFAR_10_data.ipynb)
+
+## Week 2
+*  [Convolutional Neural Networks in Python with Keras](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week6/ConvolutionNN.ipynb)
+* [Speedup deep learning with pca on CIFAR-10 dataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week6/DeepLearningTrainingUsingPCA.ipynb)
