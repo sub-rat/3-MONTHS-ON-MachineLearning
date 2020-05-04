@@ -140,3 +140,6 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 ## Week 2
 *  [Convolutional Neural Networks in Python with Keras](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week6/ConvolutionNN.ipynb)
 * [Speedup deep learning with pca on CIFAR-10 dataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week6/DeepLearningTrainingUsingPCA.ipynb)
+* MultiClass Neural nets
+* softmax
+* Collaborative filtering 
