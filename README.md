@@ -142,4 +142,5 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * [Speedup deep learning with pca on CIFAR-10 dataset](https://github.com/sub-rat/3-MONTHS-ON-MachineLearning/blob/master/code/week6/DeepLearningTrainingUsingPCA.ipynb)
 * MultiClass Neural nets
 * softmax
-* Collaborative filtering 
+* Collaborative filtering
+* Diving deep into Convolutional Neural Network [link to reference](https://poloclub.github.io/cnn-explainer/?fbclid=IwAR3y5fW7Uikh58KMosij4WssiOnfMtgwhTxpp_Ur3qfXDDYhrg-XCWjVtE0)
