@@ -145,3 +145,7 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * Collaborative filtering
 * Diving deep into Convolutional Neural Network [link to reference](https://poloclub.github.io/cnn-explainer/?fbclid=IwAR3y5fW7Uikh58KMosij4WssiOnfMtgwhTxpp_Ur3qfXDDYhrg-XCWjVtE0)
 * using pre trained model
+
+## week 3
+* using pre trained model
+* hugging face 
