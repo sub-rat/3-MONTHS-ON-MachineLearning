@@ -150,4 +150,4 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * using pre trained model
 * pre trained model tensorflow
 * hugging face
-*
+* transfer learning
