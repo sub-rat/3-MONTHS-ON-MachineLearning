@@ -154,3 +154,4 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 
 ## week 4
 * TFlite android samples exploring
+* Object detection in android
