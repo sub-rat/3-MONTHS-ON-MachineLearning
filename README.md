@@ -155,3 +155,11 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 ## week 4
 * TFlite android samples exploring
 * Object detection in android
+* exploring on Ml with Mobile 
+* Try other differnet TFLite sample and with programming implementation
+
+
+# Month3
+## Week 1:
+* Detectorn2 
+* Human Hair Segmentaion
