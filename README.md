@@ -167,4 +167,4 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * mediapipe exploring [https://github.com/google/mediapipe](https://github.com/google/mediapipe)
 
 ## week2:
-* knowledge on RNN (
+* knowledge on RNN
