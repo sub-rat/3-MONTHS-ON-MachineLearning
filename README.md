@@ -162,6 +162,9 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 # Month3
 ## Week 1:
 * Detectorn2 
-* Human Hair Segmentaion
-* Exploring Mlkit and vision api 
-* mediapipe
+* Human Hair Segmentaion research paper reading
+* Exploring Mlkit and vision api overview
+* mediapipe exploring [https://github.com/google/mediapipe](https://github.com/google/mediapipe)
+
+## week2:
+* knowledge on RNN (
