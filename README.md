@@ -170,3 +170,4 @@ continue on [Essence of calculus](https://www.youtube.com/watch?v=qb40J4N1fa4&li
 * knowledge on RNN
 * LSTM network
 * Understanding Encoders and Decoders Sequence to Sequence model
+* Understanding GRU Networks
